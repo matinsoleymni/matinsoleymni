@@ -1,7 +1,7 @@
 # Matin Soleymani
 ## Software Engineer <br>
 <img align="left" width="240" src="https://media.tenor.com/IpAyHtYc--gAAAAi/charizard-flying.gif"> <samp> <br>
-  👨‍💻 Last seen: If I'm Learn new Skills<br>
+  👨‍💻 Last seen: I'm Learn new Skills<br>
       Based: Urmia - IR<br>
 </samp>
 
