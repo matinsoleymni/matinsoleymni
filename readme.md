@@ -17,7 +17,8 @@
 
 <a href="https://github.com/matinsoleymni">
     <img src="https://github-stats-alpha.vercel.app/api?username=matinsoleymni&cc=22272e&tc=37BCF6&ic=AE87FF&bc=AE87FF">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matinsoleymni&layout=compact&theme=buefy&hide_border=true">
+    |
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matinsoleymni&layout=compact&theme=dark&hide_border=true">
 </a>
 
 </p>
