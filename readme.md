@@ -1,20 +1,22 @@
-# Matin Soleymani
-## Software Engineer <br>
-<img align="left" width="240" src="https://media.tenor.com/IpAyHtYc--gAAAAi/charizard-flying.gif"> <samp> <br>
-  👨‍💻 Last seen: I'm Learn new Skills<br>
-      Based: Urmia - IR<br>
-</samp>
+<p align="center">
+<a href="https://github.com/matinsoleymni">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=230&height=80&lines=Matin+Soleymani+%7C;Midlevel FullStack Developer" alt="Typing SVG" />
+</a>
+<br/>
 
-# My Skills :
-<samp>
-HTMl , 
-CSS , 
-PHP , 
-JS , 
-SQL , 
-PYTHON , 
-and more..!
-</samp>
-<br>
+<a href="https://github.io/matinsoleymni">
+    <img src="https://img.shields.io/badge/fingerpich-red?style=flat-square">
+</a>   
+<a href="https://www.linkedin.com/in/matinsoleymani">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+</a>
+<a href="mailto:matinsoleymni@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+</a>
+<br/> 
 
-I like Programming :)
+<a href="https://github.com/matinsoleymni">
+    <img src="https://blokchainology.com/pics/matin.jpg">
+</a>
+
+</p>
