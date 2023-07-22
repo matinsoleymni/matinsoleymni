@@ -4,9 +4,12 @@
 </a>
 <br/>
 
-<a href="https://github.io/matinsoleymni">
+<a href="https://github.com/matinsoleymni">
     <img src="https://img.shields.io/badge/matinsoleymni-red?style=flat-square">
-</a>   
+</a> 
+<a href="https://t.me/soleymnimatin">
+    <img src="https://img.shields.io/badge/TG-red?style=flat-square">
+</a> 
 <a href="https://www.linkedin.com/in/matinsoleymani">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
