@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/matinsoleymni-red?style=flat-square">
 </a> 
 <a href="https://t.me/soleymnimatin">
-    <img src="https://img.shields.io/badge/TG-red?style=flat-square">
+    <img src="https://img.shields.io/badge/TG-blue?style=flat-square&logo=telegram">
 </a> 
 <a href="https://www.linkedin.com/in/matinsoleymani">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
