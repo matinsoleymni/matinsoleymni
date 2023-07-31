@@ -22,9 +22,6 @@
     <img src="https://github-stats-alpha.vercel.app/api?username=matinsoleymni&cc=22272e&tc=37BCF6&ic=AE87FF&bc=AE87FF">
 </a>
 <br>
-<a href="https://github.com/matinsoleymni">
-    [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matinsoleymni&layout=compact&theme=dark&hide_border=true">](https://skillicons.dev/icons?i=xd,figma,github,vscode,linkedin,postman,git,go,vue,js,jquery,laravel,linux,md,nuxtjs,php,mysql,html,css,py,sass,tailwind,ts,solidity&perline=8)
-</a>
 </p>
 
-<img src="https://skillicons.dev/icons?i=xd,figma,github,vscode,linkedin,postman,git,go,vue,js,jquery,laravel,linux,md,nuxtjs,php,mysql,html,css,py,sass,tailwind,ts,solidity&perline=8" />
+<img center src="https://skillicons.dev/icons?i=xd,figma,github,vscode,linkedin,postman,git,go,vue,js,jquery,laravel,linux,md,nuxtjs,php,mysql,html,css,py,sass,tailwind,ts,solidity&perline=8" />
