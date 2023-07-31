@@ -27,6 +27,4 @@
 </a>
 </p>
 
-<a href="https://github.com/matinsoleymni">
-    <img src="https://skillicons.dev/icons?i=xd,figma,github,vscode,linkedin,postman,git,go,vue,js,jquery,laravel,linux,md,nuxtjs,php,mysql,html,css,py,sass,tailwind,ts,solidity&perline=8>
-</a>
+<img src="https://skillicons.dev/icons?i=xd,figma,github,vscode,linkedin,postman,git,go,vue,js,jquery,laravel,linux,md,nuxtjs,php,mysql,html,css,py,sass,tailwind,ts,solidity&perline=8" />
